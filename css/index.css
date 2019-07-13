@@ -1,3 +1,19 @@
 * {
-    border: 1px solid red;
+    /*border: 1px solid blue;*/
+    box-sizing: border-box;
+}
+
+header nav {
+    max-width: 50%;
+    margin: auto;
+}
+
+section {
+    display: inline-block;
+    width: 45%;
+}
+
+section.third, section.fourth, section.fifth {
+    width:32%
+    text-align: center;
 }
