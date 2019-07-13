@@ -14,6 +14,6 @@ section {
 }
 
 section.third, section.fourth, section.fifth {
-    width:32%
+    width:32%;
     text-align: center;
 }
